@@ -1,18 +1,12 @@
 <div align="center">
 
-# 📻 DPG Media Radio
-
-</div>
-
-Hi! We are the software engineering team behind all radio stations of **DPG Media** — rocking the airwaves in both 🇳🇱 **the Netherlands** and 🇧🇪 **Belgium**:
-
-<div align="center">
-
   <img src="qmusic.png" alt="Qmusic" width="132" />
   <img src="joe.png" alt="JOE" width="132" />
   <img src="willy.png" alt="Willy" width="132" />
 
 </div>
+
+Hi! We are the software engineering team behind all radio stations of **DPG Media** — rocking the airwaves in both 🇳🇱 **the Netherlands** and 🇧🇪 **Belgium**:
 
 We craft the digital experiences that keep our listeners connected to their favourite music and shows:
 
