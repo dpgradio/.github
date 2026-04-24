@@ -8,9 +8,9 @@ Hi! We are the software engineering team behind all radio stations of **DPG Medi
 
 <div align="center">
 
-  ![Qmusic](qmusic.png)
-  ![JOE](joe.png)
-  ![Willy](willy.png)
+  <img src="qmusic.png" alt="Qmusic" width="132" />
+  <img src="joe.png" alt="JOE" width="132" />
+  <img src="willy.png" alt="Willy" width="132" />
 
 </div>
 
